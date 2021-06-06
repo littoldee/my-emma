@@ -1,0 +1,134 @@
+body {
+    background-image: url(../pictures/background.jpg);
+    background-position: center;
+    background-size: contain;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 110px;
+}
+
+.logo-text {
+    font-size: 70px;
+    font-family: 'Caveat', cursive;
+    color: rgb(56, 56, 56);
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.navigate {
+    text-align: right;
+    font-family: 'KoHo', sans-serif;
+    width: 50%;
+    margin-top: 50px;
+    font-size: 30px;
+    margin-left: 100px;
+    
+}
+
+.title {
+    font-family: 'Caveat', cursive;
+    font-size: 200px;
+    text-align: center;
+    margin-top: 0px;
+    color: rgb(56, 56, 56);
+    margin-bottom: 0px;
+}
+
+h6 {
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    color: rgb(56, 56, 56);
+    margin-top: 0px;
+}
+
+.battles-pic {
+    width: 400px;
+    margin-left: 40px;
+}
+
+.text-t {
+    margin-top: 50px;
+    width: 50%;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    font-family: 'caveat', cursive;
+}
+
+.text-1 {
+    text-align: justify;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: 'KoHo', sans-serif;
+}
+
+.alive-pic {
+    width: 400px;
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.love-pic {
+    width: 400px;
+    margin-left: 40px;
+}
+
+#reviews {
+    display: flex;
+    margin-top: 50px;
+}
+.hijab-pic {
+    width: 300px;
+}
+
+.figcap {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'KoHo', sans-serif;
+}
+
+.review {
+    font-size: 15px;
+    font-style:italic;
+    text-align: center;
+    font-family: 'KoHo', sans-serif;
+}
+
+.general {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'KoHo', sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.gift {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'KoHo', sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-weight: bold;
+}
+
+.social {
+    display: flex;
+    margin-left: 570px;
+    font-size: 15px;
+}
+
+.soon {
+    text-align: center;
+    font-size: 200px;
+}
